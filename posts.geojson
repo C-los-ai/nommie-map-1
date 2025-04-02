@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.237805, 34.046603]
+      },
+      "properties": {
+        "place": "Camphor",
+        "caption": "Michelin Rated Steak & Fries!",
+        "username": "@mrbiggsmenu",
+        "postUrl": "https://instagram.com/reel/DH2UUE4RFMt/?igsh=MzRIODBiNWFIZA==",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+      }
+    }
+  ]
+}
