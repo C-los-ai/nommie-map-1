@@ -11,8 +11,78 @@
         "place": "Camphor",
         "caption": "Michelin Rated Steak & Fries!",
         "username": "@mrbiggsmenu",
-        "postUrl": "https://instagram.com/reel/DH2UUE4RFMt/?igsh=MzRIODBiNWFIZA==",
+        "postUrl": "https://instagram.com/reel/DH2UUE4RFMt",
         "profileImage": "https://cdn-icons-png.flaticon.com/512/149/149071.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.255035, 34.050536]
+      },
+      "properties": {
+        "place": "Eggslut Grand Central Market",
+        "caption": "Legendary egg sandwich 🙌",
+        "username": "@brunchhunter",
+        "postUrl": "https://instagram.com/p/fakebrunch1",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.281693, 34.073620]
+      },
+      "properties": {
+        "place": "Genwa Korean BBQ",
+        "caption": "All you can grill 🔥🥩",
+        "username": "@meatloverla",
+        "postUrl": "https://instagram.com/p/fakebbq2",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/2922/2922656.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.339134, 34.101558]
+      },
+      "properties": {
+        "place": "Cha Cha Matcha",
+        "caption": "Matcha magic 🍵✨",
+        "username": "@plantyqueen",
+        "postUrl": "https://instagram.com/p/fakematcha3",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/4140/4140047.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.151570, 34.148968]
+      },
+      "properties": {
+        "place": "Din Tai Fung Pasadena",
+        "caption": "Xiao long bao for the soul 🥟",
+        "username": "@dumplingdiva",
+        "postUrl": "https://instagram.com/p/fakedumpling4",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/236/236831.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.196938, 33.770050]
+      },
+      "properties": {
+        "place": "Roscoe's House of Chicken & Waffles",
+        "caption": "Chicken & vibes 🧇🐔",
+        "username": "@soulplate",
+        "postUrl": "https://instagram.com/p/fakechicken5",
+        "profileImage": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png"
       }
     }
   ]
